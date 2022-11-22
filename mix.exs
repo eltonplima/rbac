@@ -34,7 +34,7 @@ defmodule Rbac.MixProject do
       {:httpoison, "~> 1.8.0"},
 
       # Decoding JSON data: https://hex.pm/packages/jason
-      {:jason, "~> 1.3.0"},
+      {:jason, "~> 1.4.0"},
 
       # Check test coverage
       {:excoveralls, "~> 0.14.3", only: :test},
